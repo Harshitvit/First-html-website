@@ -1,0 +1,17 @@
+
+body{
+  background-color:cyan;
+}
+hr{
+  border-color:grey;
+  border-style:none;
+  border-top-style:dotted;
+  border-width: 10px;
+  width: 10%;
+}
+h3{
+  color: gold;
+}
+h4{
+  color: gold;
+}
